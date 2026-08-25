@@ -1,0 +1,25 @@
+src/content/docs/cloudflare-one/faq/cloudflare-tunnels-faq.mdx
+  s_0a31fbb5981cc1::t_6f1ab39e1d4410 63-74
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-tunnel/private-net/index.mdx
+  s_0a31fbb5981cc1::t_873ab5e95aeede 19-22
+src/content/docs/fundamentals/reference/policies-compliances/delivering-videos-with-cloudflare.mdx
+  s_0a31fbb5981cc1::t_fc053b4ef2e338 16,20-25
+src/content/docs/tunnel/routing.mdx
+  s_0a31fbb5981cc1::t_94daacd97d1c73 31-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "354726270a085296b79762ac353ffa4ceb968f0c",
+  "prompts": {},
+  "sessions": {
+    "s_0a31fbb5981cc1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fdc6b1a06ffe65FDNVYBp1LERI",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Hugo Vicente <hugo.asm11@gmail.com>"
+    }
+  }
+}
