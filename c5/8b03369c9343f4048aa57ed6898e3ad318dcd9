@@ -1,0 +1,35 @@
+src/content/docs/tunnel/setup.mdx
+  s_e2d39855b6f54e::t_293f378c23e207 96-97,117-118
+src/content/docs/learning-paths/clientless-access/connect-private-applications/best-practices.mdx
+  s_e2d39855b6f54e::t_2729520bcf568b 27,29-31
+src/content/docs/tunnel/routing.mdx
+  s_e2d39855b6f54e::t_50cc5302303a5a 43
+src/content/partials/cloudflare-one/tunnel/origin-parameters.mdx
+  s_e2d39855b6f54e::t_fc793a53f95ad9 39,43-45,47,53-55,57,61-63,79-81,85,184,194
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-tunnel/troubleshoot-tunnels/common-errors.mdx
+  s_e2d39855b6f54e::t_03ea7176e53779 39,41,43-44
+src/content/partials/cloudflare-one/tunnel/common-errors.mdx
+  s_e2d39855b6f54e::t_89f76fac51931f 9,52-56,100,108,132,142,144,146
+src/content/docs/cloudflare-one/troubleshooting/tunnel.mdx
+  s_e2d39855b6f54e::t_44846549902306 25
+src/content/docs/tunnel/troubleshooting.mdx
+  s_e2d39855b6f54e::t_2c668a7b097ff2 19-20,149-153
+src/content/partials/cloudflare-one/tunnel/add-published-application.mdx
+  s_e2d39855b6f54e::t_b6971060587656 23-25
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c58b03369c9343f4048aa57ed6898e3ad318dcd9",
+  "prompts": {},
+  "sessions": {
+    "s_e2d39855b6f54e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fa8ffb069ffe3kHdVorjatpLXW",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Hugo Vicente <hugo.asm11@gmail.com>"
+    }
+  }
+}
