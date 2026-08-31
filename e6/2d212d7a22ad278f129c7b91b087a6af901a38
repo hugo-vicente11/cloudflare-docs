@@ -1,0 +1,19 @@
+src/content/partials/cloudflare-one/tunnel/origin-parameters.mdx
+  s_e2d39855b6f54e::t_fc793a53f95ad9 19-26,39,43-45,47,53-55,57,61-63,79-81,85,184,194
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e62d212d7a22ad278f129c7b91b087a6af901a38",
+  "prompts": {},
+  "sessions": {
+    "s_e2d39855b6f54e": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fa8ffb069ffe3kHdVorjatpLXW",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "Hugo Vicente <hugo.asm11@gmail.com>"
+    }
+  }
+}
