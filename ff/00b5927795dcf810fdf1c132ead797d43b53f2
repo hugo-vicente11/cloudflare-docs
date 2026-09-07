@@ -1,0 +1,23 @@
+src/content/docs/cloudflare-one/networks/connectors/cloudflare-tunnel/deployment-guides/kubernetes.mdx
+  s_85c99aebc1970c::t_7ae4f76d45659d 273-274,295-299,337-338
+src/content/partials/cloudflare-one/tunnel/logs/view-logs-on-server.mdx
+  s_85c99aebc1970c::t_5cdbb6f0ef223c 8-12
+src/content/partials/cloudflare-one/tunnel/run-parameters.mdx
+  s_85c99aebc1970c::t_9d7f07f5dea48e 264-277
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ff00b5927795dcf810fdf1c132ead797d43b53f2",
+  "prompts": {},
+  "sessions": {
+    "s_85c99aebc1970c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f841fa8a5ffeInnoAK2U4AOkMD",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Hugo Vicente <hugo.asm11@gmail.com>"
+    }
+  }
+}
