@@ -1,0 +1,19 @@
+src/content/docs/tunnel/reference/run-parameters.mdx
+  s_44e76164bc13d8::t_2e0db820628e71 10,16-28
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0c29d8604147923b5cda2b083118ab5e8f01c49e",
+  "prompts": {},
+  "sessions": {
+    "s_44e76164bc13d8": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f751ed089ffe23MaKIEHjsbLNk",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Hugo Vicente <hugo.asm11@gmail.com>"
+    }
+  }
+}
