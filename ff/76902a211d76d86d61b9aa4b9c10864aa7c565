@@ -1,0 +1,19 @@
+src/content/docs/workers-ai/get-started/rest-api.mdx
+  s_cdccd95ba41271::t_4f5d43a5930b99 14,31,38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ff76902a211d76d86d61b9aa4b9c10864aa7c565",
+  "prompts": {},
+  "sessions": {
+    "s_cdccd95ba41271": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f5b4c5dc0ffeATbBsgJoV5O6QD",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Hugo Vicente <hugo.asm11@gmail.com>"
+    }
+  }
+}
